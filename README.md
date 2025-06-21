@@ -36,5 +36,7 @@ SMS_StoredProcedures_Project/
 ├── sql/                      # Stored procedure definitions and call statements(SQL scripts)
 ├── sms_cli/                  # Python CLI interface scripts
 ├── streamlit/                # Streamlit app source code
+├── ERD.png                   # Entity-Relationship Diagram
+├── ERD.mwb                   # MySQL Workbench model
 ├── powerbi/                  # Power BI files or instructions
 └── README.md                 # This file
