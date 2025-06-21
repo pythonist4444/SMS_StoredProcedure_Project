@@ -1,0 +1,8 @@
+Procedure,Input,Expected Output
+AddStudent,"Linda White, 'linda.white@student.uni.edu', ...",Inserted into Students
+EnrollStudent,"StudentID=4, CourseID=2",Inserted into Enrollments
+GetStudentsByCourse,CourseID=2,Returns John and Linda
+GetStudentsByInstructor,InstructorID=2,Returns Mary and Linda
+UpdateStudentContact,"StudentID=4, new email/phone/address",Student info updated
+GetCoursesByStudent,StudentID=1,"Returns Data Structures, Linear Algebra"
+GetEnrollmentSummary,None,Returns total enrolled for each course

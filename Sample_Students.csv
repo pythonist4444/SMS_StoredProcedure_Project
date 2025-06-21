@@ -1,0 +1,5 @@
+StudentID,FirstName,LastName,Email,Phone,Address,Department,EnrollmentDate
+1,John,Doe,john.doe@student.uni.edu,07456789012,123 Elm Street,Computer Science,2023-09-01
+2,Mary,Lee,mary.lee@student.uni.edu,07567890123,456 Oak Avenue,Mathematics,2023-09-05
+3,James,Brown,james.brown@student.uni.edu,07678901234,789 Pine Road,Physics,2023-09-10
+4,Linda,White,linda.white@student.uni.edu,07888888888,77 Maple Street,Mathematics,2025-09-01

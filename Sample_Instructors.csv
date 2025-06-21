@@ -1,0 +1,4 @@
+InstructorID,FirstName,LastName,Email,Phone,Department
+1,Alice,Johnson,alice.johnson@uni.edu,07123456789,Computer Science
+2,Bob,Smith,bob.smith@uni.edu,07234567890,Mathematics
+3,Clara,Evans,clara.evans@uni.edu,07345678901,Physics

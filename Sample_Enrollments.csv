@@ -1,0 +1,6 @@
+EnrollmentID,StudentID,CourseID,EnrollmentDate,Status
+1,1,1,2023-09-10,Active
+2,2,2,2023-09-12,Active
+3,3,3,2023-09-15,Active
+4,1,2,2023-09-20,Completed
+5,4,2,2025-09-02,Active
